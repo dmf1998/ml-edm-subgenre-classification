@@ -1,0 +1,17 @@
+# Ignore the subgenre_dataset #
+###############################
+data/subgenre_dataset
+spectrograms
+models
+notebooks/.ipynb_checkpoints
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

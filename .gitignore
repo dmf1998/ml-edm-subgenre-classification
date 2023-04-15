@@ -4,6 +4,7 @@ data/subgenre_dataset
 spectrograms
 models
 notebooks/.ipynb_checkpoints
+dj_code
 
 
 # OS generated files #

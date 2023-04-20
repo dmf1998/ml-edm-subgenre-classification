@@ -1,0 +1,47 @@
+{
+    "relu_8_(2, 2)_0.0001_adam": {
+        "val_loss": 0.6416626572608948,
+        "val_acc": 0.7402597665786743,
+        "epochs": 19,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                2,
+                2
+            ],
+            "learning_rate": 0.0001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(3, 3)_0.0001_adam": {
+        "val_loss": 0.5764425992965698,
+        "val_acc": 0.7402597665786743,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                3,
+                3
+            ],
+            "learning_rate": 0.0001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(4, 4)_0.0001_adam": {
+        "val_loss": 0.5447803139686584,
+        "val_acc": 0.7922077775001526,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                4,
+                4
+            ],
+            "learning_rate": 0.0001,
+            "optimizer": "adam"
+        }
+    }
+}

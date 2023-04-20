@@ -1,11 +1,16 @@
-# Ignore the subgenre_dataset #
+# Ignore large files #
 ###############################
 data/subgenre_dataset
 spectrograms
 models
-notebooks/.ipynb_checkpoints
-dj_code
 
+
+# Ignore old notebooks #
+notebooks/dated
+
+
+# Ignore checkpoints #
+.ipynb_checkpoints
 
 # OS generated files #
 ######################

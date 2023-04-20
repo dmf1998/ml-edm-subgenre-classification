@@ -83,7 +83,7 @@ The final model beats a random guess by 16% accuracy. This establishes proof of 
 
 #
 
-## Research Inspiration 
+#### Research Inspiration 
 - Deep Learning Based EDM Subgenre Classification using Mel-Spectrogram and Tempogram Features
   - Authors: Wei Han Hsu, Bo-Yu Chen, Yi-Hsuan Yang
   - [Paper](https://arxiv.org/abs/2110.08862)
@@ -93,5 +93,5 @@ The final model beats a random guess by 16% accuracy. This establishes proof of 
   - [Paper](https://www.tandfonline.com/doi/full/10.1080/09298215.2020.1761399)
   - [GitHub](https://github.com/Caparrini/pyGenreClf)
 
-## Data Source
-The dataset used is courtesy of Antonio Caparrini, PhD candidate at Universidad Complutense de Madrid.
+#### Data Source
+The dataset used is courtesy of Antonio Caparrini, PhD candidate at Universidad Complutense de Madrid - [GitHub](https://github.com/Caparrini).

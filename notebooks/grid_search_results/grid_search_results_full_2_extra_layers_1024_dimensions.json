@@ -1,0 +1,182 @@
+{
+    "relu_8_(2, 2)_0.001_adam": {
+        "val_loss": 1.0987827777862549,
+        "val_acc": 0.31168830394744873,
+        "epochs": 9,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                2,
+                2
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(2, 2)_0.0005_adam": {
+        "val_loss": 0.728141188621521,
+        "val_acc": 0.7532467246055603,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                2,
+                2
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(3, 3)_0.001_adam": {
+        "val_loss": 1.098716139793396,
+        "val_acc": 0.31168830394744873,
+        "epochs": 9,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                3,
+                3
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(3, 3)_0.0005_adam": {
+        "val_loss": 0.7871794700622559,
+        "val_acc": 0.649350643157959,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                3,
+                3
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(4, 4)_0.001_adam": {
+        "val_loss": 1.0985772609710693,
+        "val_acc": 0.33766233921051025,
+        "epochs": 12,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                4,
+                4
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_8_(4, 4)_0.0005_adam": {
+        "val_loss": 0.6577975749969482,
+        "val_acc": 0.8051947951316833,
+        "epochs": 9,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 8,
+            "kernel_size": [
+                4,
+                4
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(2, 2)_0.001_adam": {
+        "val_loss": 1.0982787609100342,
+        "val_acc": 0.375,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                2,
+                2
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(2, 2)_0.0005_adam": {
+        "val_loss": 0.930147647857666,
+        "val_acc": 0.46875,
+        "epochs": 9,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                2,
+                2
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(3, 3)_0.001_adam": {
+        "val_loss": 1.0986437797546387,
+        "val_acc": 0.34375,
+        "epochs": 11,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                3,
+                3
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(3, 3)_0.0005_adam": {
+        "val_loss": 0.6986861228942871,
+        "val_acc": 0.71875,
+        "epochs": 16,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                3,
+                3
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(4, 4)_0.001_adam": {
+        "val_loss": 1.097764015197754,
+        "val_acc": 0.375,
+        "epochs": 10,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                4,
+                4
+            ],
+            "learning_rate": 0.001,
+            "optimizer": "adam"
+        }
+    },
+    "relu_16_(4, 4)_0.0005_adam": {
+        "val_loss": 1.0986988544464111,
+        "val_acc": 0.28125,
+        "epochs": 9,
+        "params_dict": {
+            "activation": "relu",
+            "batch_size": 16,
+            "kernel_size": [
+                4,
+                4
+            ],
+            "learning_rate": 0.0005,
+            "optimizer": "adam"
+        }
+    }
+}

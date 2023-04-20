@@ -72,7 +72,7 @@ Limited computational power required setting image resolution to 512x512, though
 
 ## Conclusion
 
-The final model beats a random guess by 16% accuracy. This establishes proof of concept that CNNs can be used for the classification of EDM sub-genres. There is, however, room for improvement. The upcoming steps for further project development are ordered below.
+The final model beats a random guess by 16% accuracy. This establishes proof of concept that CNNs can be used for the classification of EDM sub-genres with minimal data. There is, however, room for improvement. The upcoming steps for further project development are ordered below.
 
 ### Steps to improve model robustness
 

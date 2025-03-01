@@ -42,8 +42,8 @@ Model development consisted of beginning with a simple CNN architecture then imp
 
 | Model       | Description | Accuracy |
 | ----------- | ----------- | ----------- |
-| Baseline Model      | Random Guess | 33% |
-| First CNN | 2 Convolutional Layers | 42.2% |
+| Baseline Model      | Random Guess | 33.33% |
+| First CNN | 2 Convolutional Layers | 42.20% |
 | Grid Search Best CNN | 3 Conv Layers w/ Optimized Hyperparameters | 48.89% |
 
 ### Optimal Model Architecture
